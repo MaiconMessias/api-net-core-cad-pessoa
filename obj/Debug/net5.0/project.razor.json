@@ -1,5 +1,5 @@
 {
-  "FilePath": "/home/debian11/Documentos/Projetos CSharp/Git/api-net-core-cad-pessoa/primeira-api-aspnet.csproj",
+  "FilePath": "/home/debian11/Documentos/Projetos CSharp/Git/api-net-core-cad-pessoa/api-net-core-cad-pessoa.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15616,7 +15616,7 @@
     ],
     "CSharpLanguageVersion": 900
   },
-  "RootNamespace": "primeira_api_aspnet",
+  "RootNamespace": "api-net-core-cad-pessoa",
   "Documents": [],
   "SerializationFormat": "0.2"
 }
